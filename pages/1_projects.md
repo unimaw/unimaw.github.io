@@ -1,26 +1,19 @@
 ---
 layout: post
-title:  "hello jekyll!"
-date:   2015-02-10 15:14:54
-categories: jekyll
+title:  "Notice"
+date:   2017-12-30 20:16:54
+categories: UNIWIKI
 comments: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-	def print_hi(name)
-	  puts "Hi, #{name}"
-	end
-	print_hi('Tom')
-	#=> prints 'Hi, Tom' to STDOUT.
-
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+유니위키 일반 이용자들은 문서 기여가 불가능합니다. 문서 기여 권한이 필요할 시 `zkem70@naver.com` 또는 `o_o---@naver.com` 로 메일을 남겨주시면 감사하겠습니다.
+<br><br>
+<h2>메일을 남길 때</h2>
+<br>
+<ul>
+	<li>문서 내용의 <ins>출처를 밝힐 때 필요한</ins> 이용자의 <b>실명</b>을 밝힙니다.</li>
+	<li>그 다음 문서의 내용을 씁니다.</li>
+	<li>그리고 이전에 알려드렸던 이메일로 메일을 전송합니다!</li>
+</ul>
+<br>
+간단합니다. 이 세 가지만 기억하고 다음에 꼭 기여하고 싶은 문서가 생각나면 언제든지 메일을 남겨주세요.
 
