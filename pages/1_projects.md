@@ -1,10 +1,4 @@
 ---
-layout: page
-title: Notice
-comments: true
-permalink: /projects/
----
----
 layout: post
 title:  "hello jekyll!"
 date:   2015-02-10 15:14:54
