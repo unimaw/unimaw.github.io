@@ -1,7 +1,2 @@
-node_modules/
-media/
-client/img/*_thumb
-tmp/
-client/css/authorize.css
-client/css/bootstrap.css
-client/js/templates/templates.js
+node_modules
+npm-debug.log

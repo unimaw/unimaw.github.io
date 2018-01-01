@@ -1,5 +1,0 @@
-language: php
-script:
-  - npm cache verify
-  - npm install
-  - grunt pre-commit
