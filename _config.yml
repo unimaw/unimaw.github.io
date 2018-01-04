@@ -1,13 +1,14 @@
 # Basic settings
-description:  This is personal blog.
+description:  This is Unirob's shitty blog.
 baseurl: "/"
-url: "https://lavkumarv.github.io" 
-twitter_username: LAV_K_V
-github_username:  lavkumarv
+url: "https://unimaw.github.io
+twitter_username: Unirob
+github_username:  Unimaw
 include: ['_pages']
 
 # Build settings
 markdown:    kramdown
+permalink: /:title/
 highlighter: pygments
 lsi:         false
 excerpt_separator: "\n\n"
