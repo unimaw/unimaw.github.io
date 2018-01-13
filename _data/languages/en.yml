@@ -10,7 +10,7 @@ search-load:  Loading, please wait.
 comment: Comments
 contents: Contents
 archive_a: Archives
-archive_b: "Archives: %s"
+archive_b: "Archives:%s"
 archive_date: "%b %Y"
 page: Page %d
 recent_posts: Recent Posts
