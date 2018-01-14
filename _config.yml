@@ -28,7 +28,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : 허은호
+title : UNIROB BLOG
 tagline: I'm korean. Here is Unirob's shitty blog
 assets: /assets
 url: http://unirob.cf
