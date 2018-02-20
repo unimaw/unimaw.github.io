@@ -8,6 +8,7 @@ highlighter: rouge
 #### Permalink
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: pretty
+permalink: /404.html
 
 #### Markdown Processors
 # 'redcarpet' is unsupported on GitHub Pages now.
